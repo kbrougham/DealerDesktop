@@ -9,6 +9,7 @@
                     Modify this template to jump-start your ASP.NET application.</h2>
             </hgroup>
             <p>
+                Kyle smells.
                 <asp:Button ID="Button1" runat="server" Text="Button" />
             </p>
         </div>
