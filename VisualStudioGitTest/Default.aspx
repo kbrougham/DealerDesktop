@@ -9,9 +9,6 @@
                     Modify this template to jump-start your ASP.NET application.</h2>
             </hgroup>
             <p>
-                I wanna be the very best, that no one ever was. To catch them is my real test
-                to train them is my cause. I will travel accross the land, searching far and wide.
-                Each pokemon to understand the power thats inside.
                 Kyle smells.
                 <asp:Button ID="Button1" runat="server" Text="Button" />
             </p>
