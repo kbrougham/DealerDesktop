@@ -6,7 +6,6 @@
             <hgroup class="title">
                 <h1><%: Title %>.</h1>
                 <h2>
-                    <asp:Button ID="Button1" runat="server" Text="Button" />
                     Modify this template to jump-start your ASP.NET application.</h2>
             </hgroup>
             <p>
